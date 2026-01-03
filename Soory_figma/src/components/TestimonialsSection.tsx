@@ -2,7 +2,6 @@ import { useState } from 'react';
 import './TestimonialsSection.css';
 import testimonial_1 from '../assets/images/testimonial_1.png';
 import testimonial_2 from '../assets/images/testimonial_2.png';
-import testimonial_3 from '../assets/images/testimonial_3.png';
 
 function TestimonialsSection() {
   const testimonials = [
@@ -112,3 +111,4 @@ function TestimonialsSection() {
 }
 
 export default TestimonialsSection;
+
